@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+min-height: 100vh;
+width: 100%;
+background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(TOURNAMENT.jpg);
+background-position: center;
+background-size: cover;
+'''css header{background: color #f2f2f2;padding: 10px;}
+logo{display:flex;
+    align-items:center ;
+}
+logo img{
+    width: 50px;/*adjust the size as needed*/
+    height: 50px;
+}
+logo h1{
+    margin-left: 1opx;
+    front size: 24px;
+    front-weight:bold;
+}
+showcase{image-orientation: var(50px);
+    margin-left: 5px;
+    width: auto;
+    height: max-content;
+
+}
